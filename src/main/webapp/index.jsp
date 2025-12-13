@@ -12,7 +12,7 @@
 <body>
 
 <header>
-    <h1>FitLife Gym</h1>
+    <h1>Rahul's FitLife Gym</h1>
     <p>Train Hard • Eat Smart • Live Fit</p>
 </header>
 
